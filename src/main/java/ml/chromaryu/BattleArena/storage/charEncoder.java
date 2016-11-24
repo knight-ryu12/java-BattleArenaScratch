@@ -6,5 +6,5 @@ import ml.chromaryu.BattleArena.custom.Player;
  * Created by midgard on 16/11/23.
  */
 public class charEncoder {
-    Player p;
+   Player p;
 }
